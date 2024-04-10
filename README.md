@@ -1,3 +1,3 @@
 # blog
 
-content in [blog site](www.YiSong89.github.io/blog/)
+content in [blog site](http://YiSong89.github.io/blog/)
